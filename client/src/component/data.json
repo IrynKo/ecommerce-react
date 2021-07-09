@@ -1,0 +1,87 @@
+[
+  {
+    "name": "WAFFLE KNIT TEA TOWEL (PACK OF 2)",
+    "category": "Kitchen",
+    "image": "/images/img_1.jpg",
+    "price": 60,
+    "countInStock": 0,
+    "description": "Cotton tea towel with lemon print. Sold in packs of 2. JOIN LIFE Care for water: produced using less water. The use of closed cycles that allow water to be reused or technologies such as low bathratio machines or mass dyeing help us to reduce water consumption in the processes of dyeing or washing garments."
+  },
+  {
+    "name": "CUT GLASS LAMP",
+    "category": "Lighting",
+    "image": "/images/img_2.jpg",
+    "price": 51,
+    "countInStock": 12
+  },
+  {
+    "name": "LARGE RATTAN CEILING LAMP",
+    "category": "Lighting",
+    "image": "/images/img_3.jpg",
+    "price": 72,
+    "countInStock": 23
+  },
+  {
+    "name": "LAMP WITH SQUARE MARBLE BASE",
+    "category": "Lighting",
+    "image": "/images/img_4.jpg",
+    "price": 39,
+    "countInStock": 2
+  },
+  {
+    "name": "LARGE BLACK FRAMED MIRROR",
+    "category": "Mirrors",
+    "image": "/images/img_5.jpg",
+    "price": 87,
+    "countInStock": 9
+  },
+  {
+    "name": "ROUND WOODEN MIRROR",
+    "category": "Mirrors",
+    "image": "/images/img_6.jpg",
+    "price": 37,
+    "countInStock": 8
+  },
+  {
+    "name": "LACQUERED AIRTIGHT JAR",
+    "category": "Kitchen",
+    "image": "/images/img_7.jpg",
+    "price": 7,
+    "countInStock": 28
+  },
+  {
+    "name": "250 G CAPACITY GLASS JAR",
+    "category": "Kitchen",
+    "image": "/images/img_8.jpg",
+    "price": 9,
+    "countInStock": 25
+  },
+  {
+    "name": "GREENISH GLAZED-EFFECT STONEWARE SET",
+    "category": "Kitchen",
+    "image": "/images/img_9.jpg",
+    "price": 59,
+    "countInStock": 25
+  },
+  {
+    "name": "FLORAL MELAMINE TABLEWARE",
+    "category": "Dinning",
+    "image": "/images/img_10.jpg",
+    "price": 37,
+    "countInStock": 29
+  },
+  {
+    "name": "IRREGULAR STONEWARE TABLEWARE",
+    "category": "Dinning",
+    "image": "/images/img_11.jpg",
+    "price": 137,
+    "countInStock": 29
+  },
+  {
+    "name": "STRIPED TEA TOWEL",
+    "category": "Kitchen",
+    "image": "/images/img_12.jpg",
+    "price": 16,
+    "countInStock": 89
+  }
+]
